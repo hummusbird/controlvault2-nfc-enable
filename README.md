@@ -35,8 +35,8 @@ Firmware update (done during driver installation on Windows) may be required.
 
 * Dell Latitude 5310 2-in-1
 * Dell Latitude 5480
-* Dell Latitude 5400
 * Dell Latitude 5491
+* Dell Latitude 5400
 * Dell Latitude 7280
 * Dell Latitude 7290
 * Dell Latitude 7390
